@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/Blossomforth/BlossomsPokemonGoManager" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Mavyre/BlossomsPokemonGoManager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\m421146\IdeaProjects" />
